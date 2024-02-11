@@ -65,7 +65,7 @@
                         <select name="priority_id" class="form-control" data-style="btn-primary" required>
                             @foreach ($priorities as $priority)
                                     <option value="{{$priority->id}}">{{$priority->priority_name}}</option>
-                            @endforeach
+                            @endforeach 
                         </select>
 					</div>
                     <div class="form-group">
