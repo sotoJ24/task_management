@@ -11,7 +11,7 @@ class house extends Model
     use HasFactory;
 
     protected $fillable = ['house_name','description'];
-
+ 
     public function tasks()
     { 
         return $this->hasMany(Task::class);
