@@ -13,7 +13,7 @@ class house extends Model
     protected $fillable = ['house_name','description'];
 
     public function tasks()
-    {
+    { 
         return $this->hasMany(Task::class);
     }
 }
