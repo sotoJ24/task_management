@@ -136,7 +136,7 @@
             toastr.options = {
                 "progressBar" : true,
                 "closeButton": true,
-            }
+            } 
             toastr.error("{{ Session::get('fail') }}",{timeout:17000});
         </script>
     @endif
