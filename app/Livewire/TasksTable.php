@@ -2,7 +2,7 @@
 
 namespace App\Livewire;
 
-use Livewire\Component;
+use Livewire\Component; 
 use App\Models\Task;
 use App\Models\Priority;
 
