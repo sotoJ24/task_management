@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Task;
+use App\Models\Task; 
 use App\Models\Priority;
 use App\Models\House;
 use Illuminate\Http\Request; 
