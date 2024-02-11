@@ -34,7 +34,7 @@ class TasksTable extends Component
     {
         $prioritiesIds = Priority::pluck('id')->toArray();
 
-
+ 
         foreach ($items as $index => $item) {
             
             $priorityId = $prioritiesIds[$index] ?? null;
