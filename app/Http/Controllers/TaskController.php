@@ -31,7 +31,7 @@ class TaskController extends Controller
         $tasks = Task::all();
         $all_tasks = Task::all();
 
-        $priorities = $this->get_priorities();
+        $priorities = $this->get_priorities(); 
         $houses = $this->get_houses();
         return view('task_view', compact('tasks','all_tasks','priorities','houses'));
     }
