@@ -27,7 +27,7 @@ class TaskController extends Controller
 
 
     public function index()
-    {
+    { 
         $tasks = Task::all();
         $all_tasks = Task::all();
 
