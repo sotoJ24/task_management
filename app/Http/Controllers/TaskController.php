@@ -21,7 +21,7 @@ class TaskController extends Controller
 
     public function get_priorities()
     {
-        $prioritys = Priority::all();
+        $prioritys = Priority::all(); 
         return $prioritys;
     }
 
