@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Task; 
 use App\Models\Priority;
 use App\Models\House;
-use Illuminate\Http\Request; 
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 
 class TaskController extends Controller
