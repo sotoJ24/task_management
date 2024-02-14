@@ -18,7 +18,7 @@ class TaskController extends Controller
         $houses = House::all();
         return $houses;
     }
-
+    
     public function get_priorities()
     {
         $prioritys = Priority::all(); 
