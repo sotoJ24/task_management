@@ -71,7 +71,6 @@ class TaskController extends Controller
 
         return back()->with('fail',$ValidateData->errors());
 
-
     }
 
 
