@@ -8,7 +8,7 @@ use Carbon\Carbon;
 use App\Models\House; 
 
 class HouseSeeder extends Seeder
-{
+{ 
     /**
      * Run the database seeds.
      */
