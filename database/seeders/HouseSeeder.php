@@ -129,13 +129,6 @@ class HouseSeeder extends Seeder
             ],
 
             [
-                'house_name' => 'Piece Of Heaven',
-                'description' => 'Capacity of 8 persons',
-                'created_at' => Carbon::now(),
-                'updated_at' => Carbon::now()
-            ],
-
-            [
                 'house_name' => 'Scape Chalet House',
                 'description' => 'Capacity of 12 persons',
                 'created_at' => Carbon::now(),
