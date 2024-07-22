@@ -34,7 +34,7 @@ class HouseSeeder extends Seeder
                 'description' => 'Within Condomiun trapiche',
                 'created_at' => Carbon::now(),
                 'updated_at' => Carbon::now()
-            ],
+            ], 
 
             [
                 'house_name' => 'A home to dream',
