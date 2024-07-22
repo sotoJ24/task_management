@@ -89,7 +89,7 @@ class HouseSeeder extends Seeder
                 'house_name' => 'Green View',
                 'description' => 'Capacity of 6 persons and BBQ',
                 'created_at' => Carbon::now(),
-                'updated_at' => Carbon::now()
+                'updated_at' => Carbon::now() 
             ],
 
             [
