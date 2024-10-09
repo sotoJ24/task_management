@@ -128,12 +128,6 @@ class HouseSeeder extends Seeder
                 'updated_at' => Carbon::now()
             ],
 
-            [
-                'house_name' => 'Scape Chalet House',
-                'description' => 'Capacity of 12 persons',
-                'created_at' => Carbon::now(),
-                'updated_at' => Carbon::now()
-            ],
 
             [
                 'house_name' => 'Secret Garden',
