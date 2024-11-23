@@ -24,7 +24,7 @@ class HouseSeeder extends Seeder
 
              [
                 'house_name' => 'Volcano Sunrise',
-                'description' => 'Capacity of 10 persons',
+                'description' => 'Capacity of 11 persons',
                 'created_at' => Carbon::now(),
                 'updated_at' => Carbon::now()
             ],
