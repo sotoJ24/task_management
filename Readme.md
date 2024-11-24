@@ -1,4 +1,4 @@
-# Task Management
+# Task Management 📌📌
 
 This is a Laravel-based Task Management application enhanced with Livewire for dynamic user interfaces. Follow the instructions below to set up the project locally.
 
