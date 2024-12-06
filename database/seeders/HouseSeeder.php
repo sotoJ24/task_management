@@ -172,13 +172,6 @@ class HouseSeeder extends Seeder
             ],
 
             [
-                'house_name' => 'Villa Trapiche Arenal',
-                'description' => 'Within Condomiun trapiche',
-                'created_at' => Carbon::now(),
-                'updated_at' => Carbon::now()
-            ],
-
-            [
                 'house_name' => 'Villa Alma de fuego',
                 'description' => 'Capacity of 6 people',
                 'created_at' => Carbon::now(),
