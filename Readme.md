@@ -1,6 +1,6 @@
 # Task Management System 📌  
 
-A *Laravel-based Task Management application* enhanced with *Livewire* for dynamic user interfaces and efficient task handling. This application allows you to manage tasks seamlessly, offering a clean and modern interface powered by Laravel and Livewire.  
+A  <strong>Laravel-based</strong> Task Management application* enhanced with *Livewire* for dynamic user interfaces and efficient task handling. This application allows you to manage tasks seamlessly, offering a clean and modern interface powered by Laravel and Livewire.  
 
 ---
 
